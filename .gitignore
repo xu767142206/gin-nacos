@@ -1,0 +1,13 @@
+.buildpath
+.settings/
+.project
+*.patch
+.idea/
+.git/
+runtime/
+vendor/
+log/
+.phpintel/
+.DS_Store
+*.cache
+*.exe
